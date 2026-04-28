@@ -79,14 +79,8 @@ This system is cost-effective as it uses existing CCTV infrastructure and mainly
 ---
 
 ## 📸 Project Output
-(Add your screenshots here)
+<img width="1203" height="836" alt="high traffic" src="https://github.com/user-attachments/assets/e1e7ebf1-c106-4027-a61c-5d7dbf18f7a0" />
 
----
-
-## 🔗 Links
-- GitHub Repository: (your link)  
-- Demo Video: (your link)  
-- Prototype Link: (your link)  
 
 ---
 
